@@ -1,0 +1,10 @@
+c:\users\lisakilker\documents\visual studio 2012\Projects\StudentPicnicApplication\StudentPicnicApplication\bin\Debug\StudentPicnicApplication.exe.config
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\StudentPicnicApplication\StudentPicnicApplication\bin\Debug\StudentPicnicApplication.exe
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\StudentPicnicApplication\StudentPicnicApplication\bin\Debug\StudentPicnicApplication.pdb
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\StudentPicnicApplication\StudentPicnicApplication\bin\Debug\StudentPicnicApplication.xml
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\StudentPicnicApplication\StudentPicnicApplication\obj\Debug\StudentPicnicApplication.frmStudentPicnicApplication.resources
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\StudentPicnicApplication\StudentPicnicApplication\obj\Debug\StudentPicnicApplication.Resources.resources
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\StudentPicnicApplication\StudentPicnicApplication\obj\Debug\StudentPicnicApplication.vbproj.GenerateResource.Cache
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\StudentPicnicApplication\StudentPicnicApplication\obj\Debug\StudentPicnicApplication.exe
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\StudentPicnicApplication\StudentPicnicApplication\obj\Debug\StudentPicnicApplication.xml
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\StudentPicnicApplication\StudentPicnicApplication\obj\Debug\StudentPicnicApplication.pdb
